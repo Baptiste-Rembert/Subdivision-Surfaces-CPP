@@ -1,2 +1,4 @@
 subdivisionClassique.pdf
 .venv/
+.ipynb_checkpoints/
+__pycache__/
